@@ -1,4 +1,4 @@
-Olá, meu nome é <strong>{Leonardo Carr}!</strong>
+Olá, meu nome é <strong>Leonardo Carr!</strong>
 
 > 
 Sou um dedicado estudante de análise e desenvolvimento de sistemas com espírito de aprendizado. Tenho ótimas notas e bons resultados.
