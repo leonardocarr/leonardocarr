@@ -15,7 +15,7 @@ Durante minha formação em análise e desenvolvimento de sistemas, adquiri conh
 - Excelente comunicação e habilidade para apresentar dados;
 - Conhecimento em HTML, CSS3, Javascript para desenvolvimento Front-end;
 - Estatística
-- 
+
 ----
 
 ## Linkedin
