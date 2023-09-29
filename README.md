@@ -12,7 +12,7 @@ Atualemte estudo toda a parte de desenvolvimento web focado em Html, Css3, Javas
 
 ## 🚀 Minhas Skills
 
-[![Habilidades](https://skillicons.dev/icons?i=py,postgres,html,css,wasm)](https://skillicons.dev)
+[![Habilidades](https://skillicons.dev/icons?i=py,postgres)](https://skillicons.dev)
 
 ---
 
