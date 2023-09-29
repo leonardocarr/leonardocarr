@@ -1,20 +1,23 @@
-Olá, meu nome é <strong>Leonardo Carr!</strong>
+👋🏼Olá, seja muito bem vindo(a), pode me chamar de Léo.
 
-> 
-Sou um dedicado estudante de análise e desenvolvimento de sistemas com espírito de aprendizado. Tenho ótimas notas e bons resultados.
-Sou um aluno autodidata com muita força de vontade, muito sociável e com um mindset de crescimento e determinação.
-Atualemte estudo toda a parte de desenvolvimento web focado em Html, Css3, Javascript, bootstrap, React.js, Php e banco de dados. E cursos complementares como SQLite, Excell e Power Bi.
+Estou sempre em busca de conexões com profissionais de análise de dados e tecnologia, para compartilhar conhecimento e aprendizados. Meu objetivo é aplicar minhas habilidades analíticas para ajudar a tomar decisões e melhorar os resultados transformando dados em insights estratégicos.
 
+🚀 Experiência:
+Durante minha formação em análise e desenvolvimento de sistemas, adquiri conhecimentos em programação em Python, R, Excel visualização de dados, modelagem estatística, SQL e outras ferramentas de análise de dados. Como estagiário em análise de dados da a empresa QWST tenho aplicado esses conhecimentos em projetos de análise de dados e desenvolvido habilidades em coleta e limpeza de dados, análise exploratória e criação de relatórios e elaboração de dashboards no Tableau.
 
-💬 Acesse https://leonardocarr.github.io/main/ para mais informações, perguntas e contato.
-
+📋 Habilidades: 
+- Conhecimento em Python, R e SQL;
+- Conhecimento em análise exploratórias com Excel;
+- Conhecimento em visualização de dados e criação de gráficos pelo Tableau;
+- Capacidade analítica e resolução de problemas;
+- Habilidade para trabalhar em equipe e colaborar com outras áreas;
+- Curiosidade e disposição para aprender novas tecnologias e técnicas de análise de dados;
+- Excelente comunicação e habilidade para apresentar dados;
+- Conhecimento em HTML, CSS3, Javascript para desenvolvimento Front-end;
+- Estatística
+- 
 ----
 
-## 🚀 Minhas Skills
+## Linkedin
 
-[![Habilidades](https://skillicons.dev/icons?i=py,postgres)](https://skillicons.dev)
-
----
-
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+https://www.linkedin.com/in/leonardo-carr/
