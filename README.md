@@ -1,23 +1,13 @@
-👋🏼Olá, seja muito bem vindo(a), pode me chamar de Léo.
+👋🏼 Olá, seja muito bem-vindo! Meu nome é Léo, e sou um curioso Analista de Dados.
 
-Estou sempre em busca de conexões com profissionais de análise de dados e tecnologia, para compartilhar conhecimento e aprendizados. Meu objetivo é aplicar minhas habilidades analíticas para ajudar a tomar decisões e melhorar os resultados transformando dados em insights estratégicos.
+🚀 Sobre Mim:
+Sou um entusiasta de análise de dados e da tecnologia, compartilhando os meus conhecimentos com profissionais que dividem os mesmos interesses por transformar dados em insights estratégicos. Meu objetivo é aplicar minhas habilidades analíticas para auxiliar na tomada de decisões e melhorar os resultados de empresas e organizações.
 
-🚀 Experiência:
-Durante minha formação em análise e desenvolvimento de sistemas, adquiri conhecimentos em programação em Python, R, Excel visualização de dados, modelagem estatística, SQL e outras ferramentas de análise de dados. Como estagiário em análise de dados da a empresa QWST tenho aplicado esses conhecimentos em projetos de análise de dados e desenvolvido habilidades em coleta e limpeza de dados, análise exploratória e criação de relatórios e elaboração de dashboards no Tableau.
+📋 Experiência:
+Durante minha formação em Análise e Desenvolvimento de Sistemas, adquiri conhecimento em programação Python, R e SQL, além das ferramentas como Excel para análise exploratória e Tableau para criação de visualizações de dados estratégicos. Durante a minha jornada na empresa QWST, tive a oportunidade de aplicar essas habilidades em projetos reais, incluindo coleta e limpeza de dados, análise exploratória avançada e a criação de relatórios dinâmicos e dashboards informativos no Tableau.
 
-📋 Habilidades: 
-- Conhecimento em Python, R e SQL;
-- Conhecimento em análise exploratórias com Excel;
-- Conhecimento em visualização de dados e criação de gráficos pelo Tableau;
-- Capacidade analítica e resolução de problemas;
-- Habilidade para trabalhar em equipe e colaborar com outras áreas;
-- Curiosidade e disposição para aprender novas tecnologias e técnicas de análise de dados;
-- Excelente comunicação e habilidade para apresentar dados;
-- Conhecimento em HTML, CSS3, Javascript para desenvolvimento Front-end;
-- Estatística
-
-----
+🎯 Objetivos Profissionais:
+Busco aprimorar meu conhecimento em análise de dados, visando não apenas dominar as ferramentas, mas também compreender profundamente as métricas e modelos de negócio existentes. Meu objetivo é aplicar essa expertise de forma estratégica, utilizando dados históricos para realizar análises preventivas e embasar tomadas de decisão futuras.
 
 ## Linkedin
-
 https://www.linkedin.com/in/leonardo-carr/
